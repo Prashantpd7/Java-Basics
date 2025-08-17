@@ -1,6 +1,8 @@
-/*Given an array of marks of students,
+/*
+Ques: Given an array of marks of students,
 if the mark of any student is less then 35 print its roll number.
-Roll number here refers to the index of the array.*/
+Roll number here refers to the index of the array.
+*/
 
 package Array;
 

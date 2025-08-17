@@ -1,7 +1,8 @@
 package Array;
 
-public class dusara {
+public class initialization {
     public static void main(String[] args) {
-        System.out.println("hello sahil");
+        int[] arr = {2,3,4,5,6};
+        System.out.println(arr[3]);
     }
 }

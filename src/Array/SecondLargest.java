@@ -6,15 +6,15 @@ public class SecondLargest {
     public static void main(String[] args) {
         int[] arr = {2,3,4,5,6,7,5,8,3,6,4,9,1};
         int max = Integer.MIN_VALUE;
-        for (int i=0;i<arr.length;i++){
-            if(max<arr[i]){
-                max = arr[i];
+        for (int num: arr){
+            if(max<num){
+                max = num;
             }
         }
         int smax = Integer.MIN_VALUE;
-        for(int i=0;i<arr.length;i++){
-            if(smax<arr[i] && arr[i]!=max){
-                smax = arr[i];
+        for(int num : arr){
+            if(smax<num && num!=max){
+                smax = num;
             }
         }
         System.out.println(max);

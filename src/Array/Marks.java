@@ -6,7 +6,7 @@ Roll number here refers to the index of the array.
 
 package Array;
 
-public class marks {
+public class Marks {
     public static void main(String[] args) {
         int[] mark = {40,56,74,32,19,86,57,31};
         for(int i=0;i<mark.length;i++){

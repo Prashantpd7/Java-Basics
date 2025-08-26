@@ -1,4 +1,4 @@
-package Basics.IfElse;
+package Basics;
 
 import java.util.Scanner;
 

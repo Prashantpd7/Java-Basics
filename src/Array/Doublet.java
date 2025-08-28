@@ -1,5 +1,5 @@
 /*
-Ques: Find the doublet in the array whose sum is equal to the given value x.(Two sum)
+Ques: Find the doublet in the array  whose sum is equal to the given value x.(Two sum)
  */
 package Array;
 

@@ -7,7 +7,7 @@ public class Condition {
         Scanner sc = new Scanner(System.in);
         String fruit = sc.next();
 
-        switch (fruit){
+        switch (fruit) {
             case "Mango":
                 System.out.println("Big fruit");
                 break;

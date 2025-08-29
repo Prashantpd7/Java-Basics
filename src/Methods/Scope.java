@@ -13,12 +13,16 @@ public class Scope {
             a = 30;  // (We can change its value)
             int c = 40; // (We can initialize new variable)
         }
+        System.out.println(a); /* (We can print a outside the block scope if
+                                   only its value is changed inside block scope)
+                               */
         /* System.out.println(c); (We can not print value of block scope
                                    outside the block)
 
            System.out.println(num); (num is in random method so we
                                      can't print it in main method)
         */
+        random(50);
     }
     static void random(int marks){
         int num = 67;

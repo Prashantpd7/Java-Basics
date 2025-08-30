@@ -4,7 +4,6 @@ Topic: Variable length Arguments.
 package Methods;
 
 import java.util.Arrays;
-
 public class Varargs {
     public static void main(String[] args) {
         fun(2,3,5,6,7,4,9);

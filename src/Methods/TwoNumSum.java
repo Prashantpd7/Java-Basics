@@ -4,7 +4,6 @@ Ques: Print the sum of two number by using methods.
 package Methods;
 
 import java.util.Scanner;
-
 public class TwoNumSum {
     public static void main(String[] args) {
         sum();

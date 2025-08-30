@@ -2,6 +2,7 @@
 Ques: Write a program to show swaping of two number
 using method is possible or not.
  */
+
 package Methods;
 
 public class Swap {

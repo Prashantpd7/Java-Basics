@@ -1,6 +1,7 @@
 /*
 Ques: Print the sum of two number by using methods.
  */
+
 package Methods;
 
 import java.util.Scanner;

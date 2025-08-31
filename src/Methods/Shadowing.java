@@ -3,6 +3,7 @@ Topic: Shadowing (If anything is initialized before psvm then
                   it becomes parent of everything which comes
                   under that)
  */
+
 package Methods;
 
 public class Shadowing {

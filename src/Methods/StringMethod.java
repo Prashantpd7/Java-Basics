@@ -1,6 +1,7 @@
 /*
 Ques: Use String value in methods.
  */
+
 package Methods;
 import java.util.Scanner;
 

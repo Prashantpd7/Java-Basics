@@ -11,7 +11,7 @@ public class revise {
         for(int i=0; i<=arr.length;i++){
             arr[i] = sc.nextInt();
         }
-        System.out.println("You Entered: ");
+//        System.out.println("You Entered: ");
         for(int i=0; i<n;i++){
             System.out.println(arr[i]+" ");
         }

@@ -1,5 +1,5 @@
 /*
-Ques: Find the Element 'x' in the Array. Take Array and x as input.
+Ques: Find the Element 'x' in the Array.
  */
 package Array;
 

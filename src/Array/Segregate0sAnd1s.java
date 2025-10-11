@@ -13,7 +13,8 @@ public class Segregate0sAnd1s {
         System.out.println(numOf1s);
         for(int i=0; i<numOf0s; i++) arr[i] = 0;
         for(int i=numOf0s; i<arr.length; i++) arr[i] = 1;
-        for(int i=0; i<arr.length; i++)
-            System.out.print(arr[i]+" ");
+        for(int i=0; i<arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
     }
 }

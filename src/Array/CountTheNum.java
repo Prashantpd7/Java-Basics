@@ -1,6 +1,5 @@
 /*
-Ques: Count the number of the elements in the given array greater
-than a given number x.
+Ques: Count the number of the        elements in the given array greater than a given number x.
  */
 package Array;
 public class CountTheNum {

@@ -16,8 +16,7 @@ public class Condition {
             case "Grapes":
                 System.out.println("Small fruit");
                 break;
-            default:
-                System.out.println("Please enter vail fruit name");
+            default:                System.out.println("Please enter vail fruit name");
         }
     }
 }

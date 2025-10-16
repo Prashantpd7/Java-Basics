@@ -1,3 +1,6 @@
+/*
+Ques: Merge 2 sorted arrays in one sorted array.
+ */
 package Array;
 
 public class MergeSorted {

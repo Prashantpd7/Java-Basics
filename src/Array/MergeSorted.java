@@ -22,7 +22,8 @@ public class MergeSorted {
             }
             else c[k++] = b[j++];
         }
-        while(i<a.length){
+        while(i<a.length)
+        {
             c[k++] = a[i++];
         }
         while(j<b.length){

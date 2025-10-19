@@ -1,5 +1,8 @@
 package Array;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+
 public class ArrayLists {
     public static void main(String[] args) {
         ArrayList<Integer>list = new ArrayList<Integer>();
@@ -27,6 +30,9 @@ public class ArrayLists {
             System.out.println(list.get(i));
         }
         System.out.println();
+
+        Collections.sort(list);
+        System.out.println(list);
 
     }
 }

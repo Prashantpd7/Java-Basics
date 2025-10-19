@@ -20,5 +20,8 @@ public class ArrayLists {
         list.remove(3);
         System.out.println(list);
 
+        int size = list.size();
+        System.out.println(size);
+
     }
 }

@@ -17,5 +17,8 @@ public class ArrayLists {
         list.set(0,5);
         System.out.println(list);
 
+        list.remove(3);
+        System.out.println(list);
+
     }
 }

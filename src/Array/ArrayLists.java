@@ -10,7 +10,6 @@ public class ArrayLists {
         list.add(1);
         list.add(2);
         list.add(3);
-
         int element = list.get(1);
         System.out.println(element);
 

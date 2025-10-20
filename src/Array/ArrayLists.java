@@ -33,6 +33,5 @@ public class ArrayLists {
 
         Collections.sort(list);
         System.out.println(list);
-
     }
 }

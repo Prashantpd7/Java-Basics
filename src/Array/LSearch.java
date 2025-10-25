@@ -17,6 +17,7 @@ public class LSearch {
             int element = arr[index];
             if (element == target)
                 return target;
-        } return 2;
+        }
+        return 2;
     }
 }

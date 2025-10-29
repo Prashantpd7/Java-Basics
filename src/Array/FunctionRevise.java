@@ -4,18 +4,16 @@ import java.util.Scanner;
 
 public class FunctionRevise {
     public static void main(String[] args) {
+        int ans = Fill();
+        System.out.println("Sum is: "+ans);
+    }
+    public static int Fill(){
         Scanner sc = new Scanner(System.in);
-        String name = sc.next();
-        printMyName(name);
-        int sum = totalspellings();
-        System.out.println(sum);
+        System.out.print("Enter no 1: ");
+        int n = sc.nextInt();
+        System.out.print("Enter no 2: ");
+        int m = sc.nextInt();
+        int sum = n + m;
+        return sum;
     }
-    public static void printMyName(String name){
-        System.out.println(name);
-    }
-    public static int totalspellings(){
-        int total = 8;
-        return total;
-    }
-
 }

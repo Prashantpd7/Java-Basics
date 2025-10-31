@@ -9,7 +9,7 @@ public class FunctionRevise {
     }
     public static int Fill(){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter no 1: ");
+        System.out.print("Enter no one : ");
         int n = sc.nextInt();
         System.out.print("Enter no 2: ");
         int m = sc.nextInt();

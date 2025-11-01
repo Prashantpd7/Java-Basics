@@ -11,7 +11,7 @@ public class FunctionRevise {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter no one : ");
         int n = sc.nextInt();
-        System.out.print("Enter no two: ");
+        System.out.print("Enter no two : ");
         int m = sc.nextInt();
         int sum = n + m;
         return sum;

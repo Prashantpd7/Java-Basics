@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class FunctionRevise {
     public static void main(String[] args) {
-        int ans = Fill();
-        System.out.println("Sum of these no. is: "+ans);
+        int Solution = Fill();
+        System.out.println("Sum of these no. is: "+Solution);
     }
     public static int Fill(){
         Scanner sc = new Scanner(System.in);

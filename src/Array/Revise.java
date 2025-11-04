@@ -8,7 +8,8 @@ public class Revise {
         int[] arr = new int[n];
 
         System.out.print("Enter Array elements: ");
-        for(int i=0; i<arr.length;i++){
+        for(int i=0; i<arr.length;i++)
+{
             arr[i] = sc.nextInt();
         }
         System.out.print("You Entered: ");

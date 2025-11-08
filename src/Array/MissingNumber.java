@@ -9,7 +9,8 @@ public class MissingNumber {
         int n = arr.length + 1;
         int sum = n*(n+1)/2;
         int arrsum = 0;
-        for(int ele : arr){
+        for(int ele : arr)
+        {
             arrsum += ele;
         }
         System.out.println(sum - arrsum);

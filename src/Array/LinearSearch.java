@@ -14,7 +14,7 @@ public class LinearSearch {
                 break;
             }
         }
-        if(flag==false){
+        if(flag == false){
             System.out.println("Not Present");
         }
         else

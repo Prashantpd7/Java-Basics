@@ -20,4 +20,5 @@ public class LinearSearch {
         else
             System.out.println("Here it is!");
     }
+
 }

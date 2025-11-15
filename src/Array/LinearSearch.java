@@ -5,7 +5,7 @@ package Array;
 
 public class LinearSearch {
     public static void main(String[] args) {
-        int[] arr = {23,45,32,65,76,45,24,53,98,71};
+        int[] arr = {23,45,32,65,45,24,53,98,71};
         int x = 71;
         boolean flag = false;
         for(int i=0;i<arr.length;i++){

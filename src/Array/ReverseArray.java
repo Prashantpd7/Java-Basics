@@ -11,7 +11,7 @@ public class ReverseArray {
         System.out.println();
     }
     public static void main(String[] args) {
-        int[] arr = {2,3,5,7,11};
+        int[] arr = {2,3,8,5,7,11};
         int n = arr.length;
         print(arr);
         int i = 0, j=n-1;

@@ -2,7 +2,7 @@ package Array;
 
 public class LSearch {
     public static void main(String[] args) {
-        int[] nums = {12,34,14,76,98,34,65,19,46};
+        int[] nums = {12,34,14,76,98,46,34,65,19,46};
         int target = 98;
         int ans = linearSearch(nums, target);
         System.out.println(ans);
